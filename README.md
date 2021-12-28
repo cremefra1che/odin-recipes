@@ -5,4 +5,4 @@ This is a project for learning HTML. I will be making a basic recipe website con
 
 To make this I will have to make use of links and ordered (and maybe some unordered) tables for displaying the recipes in a sensible manner.
 
-By completion of this project I hope to have gained better understanding of the use of Git, and GitHub. 
+By completion of this project I hope to have gained better understanding of the HTML-language, but also of Git, and GitHub.
