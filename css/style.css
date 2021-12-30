@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(251, 251, 159);
+}
+
+h1,
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style:square
+}
+
+.frontpage {
+    text-align: center;
+}
